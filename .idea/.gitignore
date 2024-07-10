@@ -1,9 +1,9 @@
 # Default ignored files
 /shelf/
-/workspace.xml
-/misc.xml
-/modules.xml
-/soap-correios.iml
-/vcs.xml
-/mvnw
-/mvnw.cmd
+/workspace.xml/
+/misc.xml/
+/modules.xml/
+/soap-correios.iml/
+/vcs.xml/
+/mvnw/
+/mvnw.cmd/
